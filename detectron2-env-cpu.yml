@@ -1,0 +1,14 @@
+name: detectron2
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.6
+  - opencv=3.4
+  - numpy=1.19.5
+  - tensorboard=2.4.1
+  - cython=0.29.21
+  - scipy
+  - scikit-learn
+  - pip:
+    - grad-cam
