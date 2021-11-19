@@ -1,5 +1,5 @@
-# WACV 2022 Supplementary material - Source Code
-# Submission ID #1262
+# WACV 2022 XAI4B Workshop Supplementary material - Source Code
+# Interpretable Deep Learning-Based Forensic Iris Segmentation and Recognition - WACV 2022
 
 ---
 ## Requirements
